@@ -1,0 +1,9 @@
+/* g. Footer bottom section */
+.footer-bottom {
+  width: 80%;
+  margin: auto;
+  padding: 10px 0;
+  text-align: center;
+  color: #fff;
+  background: #001789;
+}
